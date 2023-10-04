@@ -34,7 +34,7 @@ Hacktoberfest 2022
 - Try to keep pull requests small to minimize merge conflicts
 
 
-## Getting Started 🤩🤗:
+## Getting Started 🤩:
 
 - Fork this repo (button on top)
 - Clone on your local machine
