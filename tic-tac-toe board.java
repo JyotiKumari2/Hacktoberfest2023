@@ -1,5 +1,4 @@
 package practical17;
-
 import java.io.FileInputStream;
 import javafx.application.Application;
 import javafx.scene.Scene;
@@ -27,7 +26,7 @@ public class Practical17 extends Application {
                 if(n==0)
                 {     FileInputStream fin;
                             fin = new FileInputStream("C://Users//SI//OneDrive//Desktop//java_image/X.gif");
-                            //fin=("E:/x.gif");
+                             
                             img = new Image(fin);
                             img_view = new ImageView(img);
                             root.add(img_view, j, i);
