@@ -1,5 +1,5 @@
 .navbar{
-  padding:.5rem 2rem
+  padding:.6rem 2rem
 }
 nav{
   background-color:var(--nav-color)
@@ -12,7 +12,7 @@ nav{
   margin-right:1rem
 }
 .navbar-brand svg{
-  height:37px;
+  height:30px;
   width:auto;
   vertical-align:middle
 }
